@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a Computer Science and Neuropsychology student
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliRezaei-Code&show_icons=true&theme=dark)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliRezaei-Code&hide=javascript,html&layout=compact&theme=dark)
+![Trophy](https://github-profile-trophy.vercel.app/?username=AliRezaei-Code&theme=onedark)
 
 ## Connect with Me
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/ali-r-652a79170/)  
