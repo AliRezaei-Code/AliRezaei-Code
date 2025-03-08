@@ -23,3 +23,4 @@ Welcome to my GitHub profile! I'm a Computer Science and Neuropsychology student
 Awarded National Neuroscience Olympiad Gold Medallist and Lassonde Co-op Student of the Year! 🌟
 
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
