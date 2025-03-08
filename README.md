@@ -8,11 +8,11 @@ Welcome to my GitHub profile! I'm a Computer Science and Neuropsychology student
 - Tech enthusiast exploring AI, machine learning, and 3D rendering! 😄
 
 ## My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliRezaei-Code&show_icons=true&theme=dark)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+[![Profile Views](https://komarev.com/ghpvc/?username=AliRezaei-Code&color=blue&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliRezaei-Code&hide=javascript,html&layout=compact&theme=dark)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=AliRezaei-Code&theme=onedark)
-[![Profile Views](https://komarev.com/ghpvc/?username=AliRezaei-Code&color=blue&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliRezaei-Code&show_icons=true&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliRezaei-Code&theme=dark)
 
 
