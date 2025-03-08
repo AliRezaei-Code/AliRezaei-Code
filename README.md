@@ -19,9 +19,7 @@ Welcome to my GitHub profile! I'm a Computer Science and Neuropsychology student
 
 
 ## Connect with Me
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/ali-r-652a79170/)  
-
-[<img src="https://img.icons8.com/color/48/000000/email.png" width="30"/>](mailto:ali0rezaei0@gmail.com)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/ali-r-652a79170/)  [<img src="https://img.icons8.com/color/48/000000/email.png" width="30"/>](mailto:ali0rezaei0@gmail.com)
 
 ## Fun Fact
 Awarded National Neuroscience Olympiad Gold Medallist and Lassonde Co-op Student of the Year! 🌟
