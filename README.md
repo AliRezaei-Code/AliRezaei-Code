@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a Computer Science and Neuropsychology student
 ![Trophy](https://github-profile-trophy.vercel.app/?username=AliRezaei-Code&theme=onedark)
 [![Profile Views](https://komarev.com/ghpvc/?username=AliRezaei-Code&color=blue&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliRezaei-Code&theme=dark)
-![Score](https://statsforgit.com/api/score/AliRezaei-Code)
+
 
 ## Connect with Me
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/ali-r-652a79170/)  
