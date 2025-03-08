@@ -12,8 +12,7 @@ Welcome to my GitHub profile! I'm a Computer Science and Neuropsychology student
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliRezaei-Code&theme=dark)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=AliRezaei-Code&theme=onedark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliRezaei-Code&show_icons=true&theme=dark)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+
 
 ### Languages and Tools 🛠 
 
