@@ -32,16 +32,6 @@ I build applied AI and full-stack systems at the edge of cognition and computati
 
 ---
 
-## Skills
-
-**Languages:** Python, TypeScript/JavaScript, C++, C#, MATLAB, SQL  
-**ML:** PyTorch, TensorFlow, scikit-learn, Hugging Face, ONNX  
-**Web/Backend:** FastAPI, Django, Node/Express, Next.js, Prisma  
-**Data/Infra:** Docker, GitHub Actions, PostgreSQL, Redis, Azure, Linux  
-**Domains:** RAG systems, XR/VR with sensors, signal processing/BCI, security-minded engineering
-
----
-
 ## Contact
 - Email: ali0rezaei0@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/ali-r-652a79170  
