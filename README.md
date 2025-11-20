@@ -37,8 +37,6 @@ I build applied AI and full-stack systems at the edge of cognition and computati
 - LinkedIn: https://www.linkedin.com/in/ali-r-652a79170  
 - Site: https://rezaei.agency
 
-*Recognition: Lassonde Co-op Student of the Year 2023, National Neuroscience Olympiad Gold Medalist.*
-
 ## My GitHub Stats
 [![Profile Views](https://komarev.com/ghpvc/?username=AliRezaei-Code&color=blue&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
 
