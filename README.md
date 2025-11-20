@@ -43,7 +43,6 @@ I build applied AI and full-stack systems at the edge of cognition and computati
 [![Profile Views](https://komarev.com/ghpvc/?username=AliRezaei-Code&color=blue&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliRezaei-Code&theme=dark)
-![Trophy](https://github-profile-trophy.vercel.app/?username=AliRezaei-Code&theme=onedark)
 
 
 ### Languages and Tools 🛠 
