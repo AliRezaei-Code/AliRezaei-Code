@@ -46,8 +46,5 @@ I build applied AI and full-stack systems at the edge of cognition and computati
 ## Connect with Me
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/ali-r-652a79170/)  [<img src="https://img.icons8.com/color/48/000000/email.png" width="30"/>](mailto:ali0rezaei0@gmail.com)
 
-## Fun Fact
-Awarded National Neuroscience Olympiad Gold Medallist and Lassonde Co-op Student of the Year! 🌟
-
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
