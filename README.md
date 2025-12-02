@@ -42,9 +42,21 @@ I build applied AI and full-stack systems at the edge of cognition and computati
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliRezaei-Code&theme=dark)
 
-
 ## Connect with Me
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/ali-r-652a79170/)  [<img src="https://img.icons8.com/color/48/000000/email.png" width="30"/>](mailto:ali0rezaei0@gmail.com)
 
+---
+
+## Tech Pantheon! (for fun)
+
+A  nod to the legends that shaped how I think about software.
+
+<p align="center">
+  <img src="saintstallman.jpg" width="220" alt="Stained-glass style icon of Richard Stallman">
+  <img src="saintgaben.jpeg" width="220" alt="Saint Gaben style icon">
+  <img src="carmackjacked.jpg" width="220" alt="THE GOAT!">
+</p>
+
+---
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
