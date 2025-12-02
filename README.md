@@ -51,17 +51,17 @@ I build applied AI and full-stack systems at the edge of cognition and computati
 
 A  nod to the legends that shaped how I think about software.
 
-<div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; align-items:flex-start; text-align:center;">
-  <figure style="margin:0;">
-    <img src="assets/saintstallman.jpg" alt="Stained-glass style icon of Richard Stallman" style="width:220px; max-width:100%; height:auto;">
+<div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; align-items:flex-start;">
+  <figure style="margin:0; display:flex; flex-direction:column; align-items:center; flex:1 1 220px; max-width:240px; text-align:center;">
+    <img src="assets/saintstallman.jpg" alt="Stained-glass style icon of Richard Stallman" style="width:100%; max-width:220px; height:auto;">
     <figcaption style="font-size:12px; margin-top:6px;">Richard Stallman</figcaption>
   </figure>
-  <figure style="margin:0;">
-    <img src="assets/saintgaben.jpeg" alt="Saint Gaben style icon" style="width:220px; max-width:100%; height:auto;">
+  <figure style="margin:0; display:flex; flex-direction:column; align-items:center; flex:1 1 220px; max-width:240px; text-align:center;">
+    <img src="assets/saintgaben.jpeg" alt="Saint Gaben style icon" style="width:100%; max-width:220px; height:auto;">
     <figcaption style="font-size:12px; margin-top:6px;">Gabe Newell</figcaption>
   </figure>
-  <figure style="margin:0;">
-    <img src="assets/carmackjacked.jpg" alt="THE GOAT!" style="width:220px; max-width:100%; height:auto;">
+  <figure style="margin:0; display:flex; flex-direction:column; align-items:center; flex:1 1 220px; max-width:240px; text-align:center;">
+    <img src="assets/carmackjacked.jpg" alt="THE GOAT!" style="width:100%; max-width:220px; height:auto;">
     <figcaption style="font-size:12px; margin-top:6px;">John Carmack</figcaption>
   </figure>
 </div>
