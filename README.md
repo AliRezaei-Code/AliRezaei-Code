@@ -51,18 +51,18 @@ I build applied AI and full-stack systems at the edge of cognition and computati
 
 A  nod to the legends that shaped how I think about software.
 
-<div style="display:flex; flex-wrap:wrap; gap:24px; justify-content:center; align-items:flex-start;">
-  <figure style="margin:0; padding:8px; display:flex; flex-direction:column; align-items:center; flex:1 1 180px; max-width:200px; text-align:center;">
-    <img src="assets/saintstallman.jpg" alt="Stained-glass style icon of Richard Stallman" style="width:100%; max-width:180px; height:auto;">
-    <figcaption style="font-size:12px; font-weight:600; margin-top:8px;">Richard Stallman</figcaption>
+<div style="display:flex; flex-wrap:wrap; gap:24px; justify-content:center; align-items:flex-start; width:100%; margin:0 auto;">
+  <figure style="margin:0; padding:8px; display:flex; flex-direction:column; align-items:center; text-align:center;">
+    <img src="assets/saintstallman.jpg" alt="Stained-glass style icon of Richard Stallman" style="width:150px; max-width:100%; height:auto;">
+    <figcaption style="font-size:12px; font-weight:700; margin-top:8px;">Richard Stallman</figcaption>
   </figure>
-  <figure style="margin:0; padding:8px; display:flex; flex-direction:column; align-items:center; flex:1 1 180px; max-width:200px; text-align:center;">
-    <img src="assets/saintgaben.jpeg" alt="Saint Gaben style icon" style="width:100%; max-width:180px; height:auto;">
-    <figcaption style="font-size:12px; font-weight:600; margin-top:8px;">Gabe Newell</figcaption>
+  <figure style="margin:0; padding:8px; display:flex; flex-direction:column; align-items:center; text-align:center;">
+    <img src="assets/saintgaben.jpeg" alt="Saint Gaben style icon" style="width:150px; max-width:100%; height:auto;">
+    <figcaption style="font-size:12px; font-weight:700; margin-top:8px;">Gabe Newell</figcaption>
   </figure>
-  <figure style="margin:0; padding:8px; display:flex; flex-direction:column; align-items:center; flex:1 1 180px; max-width:200px; text-align:center;">
-    <img src="assets/carmackjacked.jpg" alt="THE GOAT!" style="width:100%; max-width:180px; height:auto;">
-    <figcaption style="font-size:12px; font-weight:600; margin-top:8px;">John Carmack</figcaption>
+  <figure style="margin:0; padding:8px; display:flex; flex-direction:column; align-items:center; text-align:center;">
+    <img src="assets/carmackjacked.jpg" alt="THE GOAT!" style="width:150px; max-width:100%; height:auto;">
+    <figcaption style="font-size:12px; font-weight:700; margin-top:8px;">John Carmack</figcaption>
   </figure>
 </div>
 
