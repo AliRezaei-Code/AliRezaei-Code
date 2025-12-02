@@ -3,20 +3,11 @@ Full‑stack & ML engineer building reliable, production-first prototypes and re
 
 🚀 Featured Projects
 - TaxSavvy.ai : https://github.com/AliRezaei-Code/TaxSavvy.ai  
-  A prototype async Python backend and design blueprint for a Canadian small‑business tax assistant. Contains the working prototype (on‑device friendly, in‑memory persistence) plus a technical implementation plan for scaling to microservices.
-
 - OpenCV‑prototypes : https://github.com/AliRezaei-Code/OpenCV-prototypes  
-  A collection of vision accessibility demos and OCR/ASR pipelines built on OpenCV, pytesseract/paddleocr and optional PyTorch models. Includes threaded capture, deterministic pipelines, demos, and test assets.
-
 - EECS4070‑monorepo : https://github.com/AliRezaei-Code/EECS4070-monorepo  
-  Course project monorepo collecting experiments such as adaptive CartPole agents and reproducibility studies. Each subproject is self‑contained with notebooks, scripts and reproducibility notes.
-
 - AeroForge (web) : https://github.com/AliRezaei-Code/AeroForge  
-  Next.js web frontend and demo site for UX and deployment experiments. Good starting point for prototyping full‑stack features and static/dynamic site deployment on Vercel.
-
 - Keystroke Data Cleaning Tool : https://github.com/AliRezaei-Code/keystroke_project  
-  A Python CLI for cleaning and segmenting keystroke JSONL logs: marker detection, tail pruning, segmented outputs and human‑readable review exports — useful for behavioral data preprocessing.
-
+ 
 Other notable repos
 - Toyota‑GR‑Hack‑the‑Track--Ising‑Decision‑Maker (data & decision heuristics)
 - llama2.c (notebooks and experiments)
