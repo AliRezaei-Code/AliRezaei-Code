@@ -5,10 +5,10 @@ Full-stack & ML engineer building reliable, production-first prototypes and rese
 | Project | Description |
 | --- | --- |
 | [SWOT-LLM](https://github.com/AliRezaei-Code/SWOT-LLM) | RAG + evaluation stack for humanitarian water engineering (Safe Water Optimization). LLM infra, retrieval, and front-end in one place. |
-| [SurveilChain - Real-Time Crypto Market Surveillance](https://github.com/AliRezaei-Code/SurveilChain--Real-Time-Crypto-Market-Surveillance-Platform) | Streaming ingestion, anomaly detection, and alerting for crypto markets. Shows data pipelines + real-time systems. |
+| [SurveilChain - Real-Time Crypto Market Surveillance](https://github.com/AliRezaei-Code/SurveilChain--Real-Time-Crypto-Market-Surveillance-Platform) | Streaming ingestion, anomaly detection, and alerting for crypto markets. Data pipelines and real-time systems. |
 | [Assurance-Insight-Copilot](https://github.com/AliRezaei-Code/Assurance-Insight-Copilot) | Domain-specific AI copilot for assurance / risk work: retrieval, tool-calling, and evaluation harnesses. |
 | [Orbital-Arm-Sensor-Console](https://github.com/AliRezaei-Code/Orbital-Arm-Sensor-Console) | C++ telemetry and visualization console for a robotic arm. Embedded-ish, real-time sensor pipelines. |
-| [OpenCV-prototypes](https://github.com/AliRezaei-Code/OpenCV-prototypes) | Computer-vision playground: tracking, filters, and small demos that back up the practical systems / prototypes line. |
+| [OpenCV-prototypes](https://github.com/AliRezaei-Code/OpenCV-prototypes) | Computer-vision playground: tracking, filters, and small demos for practical systems and prototypes. |
 
 Other notable repos
 | Repo | Description |
@@ -16,10 +16,10 @@ Other notable repos
 | [Toyota-GR-Hack-the-Track--Ising-Decision-Maker-](https://github.com/AliRezaei-Code/Toyota-GR-Hack-the-Track--Ising-Decision-Maker-) | Motorsports telematics and decision heuristics (Ising-style) for Toyota’s Hack the Track. |
 | [Trustworthy-Credit-Risk-Scoring-with-Tractable-Probabilistic-Circuits](https://github.com/AliRezaei-Code/Trustworthy-Credit-Risk-Scoring-with-Tractable-Probabilistic-Circuits) | Structured probabilistic ML for credit risk; strong math/ML for finance signal. |
 | [VetSense-Cloud](https://github.com/AliRezaei-Code/VetSense-Cloud) | Cloud backend and data pipelines for veterinary sensor/clinic workflows (full-stack and infra). |
-| [ReactorOps-Lab](https://github.com/AliRezaei-Code/ReactorOps-Lab) | Experiments around operations and monitoring (infra-minded reviewer friendly). |
+| [ReactorOps-Lab](https://github.com/AliRezaei-Code/ReactorOps-Lab) | Experiments around operations and monitoring. |
 | [audio_anonymizer](https://github.com/AliRezaei-Code/audio_anonymizer) | C++ tool for pitch/tempo/noise-based anonymization; privacy + DSP + systems. |
 | [ResolveFormatTool](https://github.com/AliRezaei-Code/ResolveFormatTool) | FFmpeg-based C++ utility for producing DaVinci Resolve-friendly formats (CLI and cross-platform tooling). |
-| [llama2.c](https://github.com/AliRezaei-Code/llama2.c) | Experiments, finetuning, or evals around Karpathy’s llama2.c; shows interest in LLM internals. |
+| [llama2.c](https://github.com/AliRezaei-Code/llama2.c) | Experiments, finetuning, and evaluations around Karpathy’s llama2.c. |
 
 💼 Experience (short - full resume available on request)
 - Software & ML Engineer, Dahdaleh Institute for Global Health Research - Sep 2025 - Present  
