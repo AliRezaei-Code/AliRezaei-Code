@@ -52,9 +52,9 @@ I build applied AI and full-stack systems at the edge of cognition and computati
 A  nod to the legends that shaped how I think about software.
 
 <p align="center">
-  <img src="saintstallman.jpg" width="220" alt="Stained-glass style icon of Richard Stallman">
-  <img src="saintgaben.jpeg" width="220" alt="Saint Gaben style icon">
-  <img src="carmackjacked.jpg" width="220" alt="THE GOAT!">
+  <img src="assets/saintstallman.jpg" width="220" alt="Stained-glass style icon of Richard Stallman">
+  <img src="assets/saintgaben.jpeg" width="220" alt="Saint Gaben style icon">
+  <img src="assets/carmackjacked.jpg" width="220" alt="THE GOAT!">
 </p>
 
 ---
