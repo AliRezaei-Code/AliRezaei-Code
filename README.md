@@ -1,41 +1,38 @@
-# Hi, I'm Ali Rezaei
+Hi! I’m Ali Rezaei 👋
+Full‑stack & ML engineer building reliable, production-first prototypes and research tools. I focus on practical systems: data pipelines, ML infra, real‑time / embedded demos, and research code that’s easy to reproduce.
 
-I build applied AI and full-stack systems at the edge of cognition and computation. My recent work spans XR/VR interfaces with embedded sensing, RAG systems for scientific workflows, and lightweight local-LLM tooling.
+🚀 Featured Projects
+- TaxSavvy.ai : https://github.com/AliRezaei-Code/TaxSavvy.ai  
+  A prototype async Python backend and design blueprint for a Canadian small‑business tax assistant. Contains the working prototype (on‑device friendly, in‑memory persistence) plus a technical implementation plan for scaling to microservices.
 
----
+- OpenCV‑prototypes : https://github.com/AliRezaei-Code/OpenCV-prototypes  
+  A collection of vision accessibility demos and OCR/ASR pipelines built on OpenCV, pytesseract/paddleocr and optional PyTorch models. Includes threaded capture, deterministic pipelines, demos, and test assets.
 
-## Experience
+- EECS4070‑monorepo : https://github.com/AliRezaei-Code/EECS4070-monorepo  
+  Course project monorepo collecting experiments such as adaptive CartPole agents and reproducibility studies. Each subproject is self‑contained with notebooks, scripts and reproducibility notes.
 
-**Software & ML Engineer, Dahdaleh Institute for Global Health Research**  
-*Sep 2025 – Present*  
-- Delivering an AI assistant (RAG) for humanitarian water engineering: document ingestion, retrieval evaluation, and guardrails.  
-- Shipping production-grade pipelines (LangChain, vector search, FastAPI) and MLOps basics (tests, CI, observability).
+- AeroForge (web) : https://github.com/AliRezaei-Code/AeroForge  
+  Next.js web frontend and demo site for UX and deployment experiments. Good starting point for prototyping full‑stack features and static/dynamic site deployment on Vercel.
 
-**Researcher (NSERC Award), Computational Neuroscience**  
-*May 2025 – Aug 2025*  
-- Built signal-based deep-learning models for BCI datasets, including preprocessing, augmentation, and cross-subject evaluation.  
-- Produced reproducible notebooks and benchmarks for EEG/EMG tasks.
+- Keystroke Data Cleaning Tool : https://github.com/AliRezaei-Code/keystroke_project  
+  A Python CLI for cleaning and segmenting keystroke JSONL logs: marker detection, tail pruning, segmented outputs and human‑readable review exports — useful for behavioral data preprocessing.
 
-**Cybersecurity Engineer, 8 Limbs Consultancy**  
-*Feb 2025 – Present*  
-- Implemented secure auth, scanning workflows, and threat-modeling for client web stacks (Django/Node).  
-- Hardened infra with IaC, scanning gates in CI, and automated dependency checks.
+Other notable repos
+- Toyota‑GR‑Hack‑the‑Track--Ising‑Decision‑Maker (data & decision heuristics)
+- llama2.c (notebooks and experiments)
 
-**Student Researcher, York University (Visuomotor Neuroscience Lab)**  
-*Sep 2024 – Present*  
-- Analysis pipelines in Python/MATLAB for sensorimotor experiments; visualization and experiment automation.
+💼 Experience (short — full resume available on request)
+- Software & ML Engineer, Dahdaleh Institute for Global Health Research — Sep 2025 – Present  
+- Researcher (NSERC Award), Computational Neuroscience — May 2025 – Aug 2025  
+- Cybersecurity Engineer, 8 Limbs Consultancy — Feb 2025 – Present  
+- SWE & ML Engineer, DRDC — May 2023 – Sep 2024
 
-**SWE & ML Engineer, Defence Research and Development Canada (DRDC)**  
-*May 2023 – Sep 2024*  
-- Built XR/VR prototypes with embedded sensors and spatial data pipelines.  
-- Fine-tuned transformers (LLaMA, GPT-2) with PyTorch/TensorFlow; delivered analytics dashboards for R&D teams.
-
----
-
-## Contact
+📫 Contact
 - Email: ali0rezaei0@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/ali-r-652a79170  
 - Site: https://rezaei.agency
+
+
 
 ## My GitHub Stats
 [![Profile Views](https://komarev.com/ghpvc/?username=AliRezaei-Code&color=blue&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
@@ -51,21 +48,21 @@ I build applied AI and full-stack systems at the edge of cognition and computati
 
 A  nod to the legends that shaped how I think about software.
 
-<div style="display:flex; flex-wrap:wrap; gap:24px; justify-content:center; align-items:flex-start; width:100%; margin:0 auto;">
+<div style="display:flex; flex-wrap:wrap; gap:24px; justify-content:center; align-items:flex-start; width:25%; margin:0 auto;">
   <div style="padding:8px;">
     <img src="assets/saintstallman.jpg" alt="Stained-glass style icon of Richard Stallman" style="width:140px; max-width:100%; height:auto;">
   </div>
   <div style="padding:8px;">
-    <img src="assets/saintgaben.jpeg" alt="Saint Gaben style icon" style="width:140px; max-width:100%; height:auto;">
+    <img src="assets/saintgaben.jpeg" alt="Saint Gaben style icon" style="width:140px; max-width:25%; height:auto;">
   </div>
   <div style="padding:8px;">
-    <img src="assets/carmackjacked.jpg" alt="THE GOAT!" style="width:140px; max-width:100%; height:auto;">
+    <img src="assets/carmackjacked.jpg" alt="THE GOAT!" style="width:140px; max-width:25%; height:auto;">
   </div>
 </div>
 <p style="text-align:center; font-size:13px; font-weight:600; margin-top:12px;">
-Richard Stallman — Free Software Foundation founder and GNU creator.<br>
-Gabe Newell — Valve cofounder who launched Steam and pushed PC gaming forward.<br>
-John Carmack — id Software cofounder and 3D graphics pioneer behind Doom and Quake.
+Richard Stallman : Free Software Foundation founder and GNU creator.<br>
+Gabe Newell : Valve cofounder who launched Steam and pushed PC gaming forward.<br>
+John Carmack : id Software cofounder and 3D graphics pioneer behind Doom and Quake.
 </p>
 
 ---
