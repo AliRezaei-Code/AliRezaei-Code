@@ -43,7 +43,7 @@ I build applied AI and full-stack systems at the edge of cognition and computati
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliRezaei-Code&theme=dark)
 
 ## Connect with Me
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/ali-r-652a79170/)  [<img src="https://img.icons8.com/color/48/000000/email.png" width="30"/>](mailto:ali0rezaei0@gmail.com)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32" height="32" alt="LinkedIn icon"/>](https://www.linkedin.com/in/ali-r-652a79170/)  [<img src="https://img.icons8.com/color/48/000000/email.png" width="32" height="32" alt="Email icon"/>](mailto:ali0rezaei0@gmail.com)
 
 ---
 
@@ -56,6 +56,7 @@ A  nod to the legends that shaped how I think about software.
   <img src="assets/saintgaben.jpeg" width="220" alt="Saint Gaben style icon">
   <img src="assets/carmackjacked.jpg" width="220" alt="THE GOAT!">
 </p>
+<p align="center"><sub>Richard Stallman&nbsp;&nbsp;&nbsp;&nbsp;Gabe Newell&nbsp;&nbsp;&nbsp;&nbsp;John Carmack</sub></p>
 
 ---
 
