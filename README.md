@@ -1,22 +1,31 @@
 Hi! I’m Ali Rezaei 👋
-Full‑stack & ML engineer building reliable, production-first prototypes and research tools. I focus on practical systems: data pipelines, ML infra, real‑time / embedded demos, and research code that’s easy to reproduce.
+Full-stack & ML engineer building reliable, production-first prototypes and research tools. I focus on practical systems: data pipelines, ML infra, real-time / embedded demos, and research code that’s easy to reproduce.
 
 🚀 Featured Projects
-- TaxSavvy.ai : https://github.com/AliRezaei-Code/TaxSavvy.ai  
-- OpenCV‑prototypes : https://github.com/AliRezaei-Code/OpenCV-prototypes  
-- EECS4070‑monorepo : https://github.com/AliRezaei-Code/EECS4070-monorepo  
-- AeroForge (web) : https://github.com/AliRezaei-Code/AeroForge  
-- Keystroke Data Cleaning Tool : https://github.com/AliRezaei-Code/keystroke_project  
- 
-Other notable repos
-- Toyota‑GR‑Hack‑the‑Track--Ising‑Decision‑Maker (data & decision heuristics)
-- llama2.c (notebooks and experiments)
+| Project | Description |
+| --- | --- |
+| [SWOT-LLM](https://github.com/AliRezaei-Code/SWOT-LLM) | RAG + evaluation stack for humanitarian water engineering (Safe Water Optimization). LLM infra, retrieval, and front-end in one place. |
+| [SurveilChain - Real-Time Crypto Market Surveillance](https://github.com/AliRezaei-Code/SurveilChain--Real-Time-Crypto-Market-Surveillance-Platform) | Streaming ingestion, anomaly detection, and alerting for crypto markets. Shows data pipelines + real-time systems. |
+| [Assurance-Insight-Copilot](https://github.com/AliRezaei-Code/Assurance-Insight-Copilot) | Domain-specific AI copilot for assurance / risk work: retrieval, tool-calling, and evaluation harnesses. |
+| [Orbital-Arm-Sensor-Console](https://github.com/AliRezaei-Code/Orbital-Arm-Sensor-Console) | C++ telemetry and visualization console for a robotic arm. Embedded-ish, real-time sensor pipelines. |
+| [OpenCV-prototypes](https://github.com/AliRezaei-Code/OpenCV-prototypes) | Computer-vision playground: tracking, filters, and small demos that back up the practical systems / prototypes line. |
 
-💼 Experience (short — full resume available on request)
-- Software & ML Engineer, Dahdaleh Institute for Global Health Research — Sep 2025 – Present  
-- Researcher (NSERC Award), Computational Neuroscience — May 2025 – Aug 2025  
-- Cybersecurity Engineer, 8 Limbs Consultancy — Feb 2025 – Present  
-- SWE & ML Engineer, DRDC — May 2023 – Sep 2024
+Other notable repos
+| Repo | Description |
+| --- | --- |
+| [Toyota-GR-Hack-the-Track--Ising-Decision-Maker-](https://github.com/AliRezaei-Code/Toyota-GR-Hack-the-Track--Ising-Decision-Maker-) | Motorsports telematics and decision heuristics (Ising-style) for Toyota’s Hack the Track. |
+| [Trustworthy-Credit-Risk-Scoring-with-Tractable-Probabilistic-Circuits](https://github.com/AliRezaei-Code/Trustworthy-Credit-Risk-Scoring-with-Tractable-Probabilistic-Circuits) | Structured probabilistic ML for credit risk; strong math/ML for finance signal. |
+| [VetSense-Cloud](https://github.com/AliRezaei-Code/VetSense-Cloud) | Cloud backend and data pipelines for veterinary sensor/clinic workflows (full-stack and infra). |
+| [ReactorOps-Lab](https://github.com/AliRezaei-Code/ReactorOps-Lab) | Experiments around operations and monitoring (infra-minded reviewer friendly). |
+| [audio_anonymizer](https://github.com/AliRezaei-Code/audio_anonymizer) | C++ tool for pitch/tempo/noise-based anonymization; privacy + DSP + systems. |
+| [ResolveFormatTool](https://github.com/AliRezaei-Code/ResolveFormatTool) | FFmpeg-based C++ utility for producing DaVinci Resolve-friendly formats (CLI and cross-platform tooling). |
+| [llama2.c](https://github.com/AliRezaei-Code/llama2.c) | Experiments, finetuning, or evals around Karpathy’s llama2.c; shows interest in LLM internals. |
+
+💼 Experience (short - full resume available on request)
+- Software & ML Engineer, Dahdaleh Institute for Global Health Research - Sep 2025 - Present  
+- Researcher (NSERC Award), Computational Neuroscience - May 2025 - Aug 2025  
+- Cybersecurity Engineer, 8 Limbs Consultancy - Feb 2025 - Present  
+- SWE & ML Engineer, DRDC - May 2023 - Sep 2024
 
 📫 Contact
 - Email: ali0rezaei0@gmail.com  
@@ -39,15 +48,15 @@ Other notable repos
 
 A  nod to the legends that shaped how I think about software.
 
-<div style="display:flex; flex-wrap:wrap; gap:24px; justify-content:center; align-items:flex-start; width:25%; margin:0 auto;">
+<div style="display:flex; flex-wrap:wrap; gap:24px; justify-content:center; align-items:flex-start; width:100%; margin:0 auto;">
   <div style="padding:8px;">
     <img src="assets/saintstallman.jpg" alt="Stained-glass style icon of Richard Stallman" style="width:140px; max-width:100%; height:auto;">
   </div>
   <div style="padding:8px;">
-    <img src="assets/saintgaben.jpeg" alt="Saint Gaben style icon" style="width:140px; max-width:25%; height:auto;">
+    <img src="assets/saintgaben.jpeg" alt="Saint Gaben style icon" style="width:140px; max-width:100%; height:auto;">
   </div>
   <div style="padding:8px;">
-    <img src="assets/carmackjacked.jpg" alt="THE GOAT!" style="width:140px; max-width:25%; height:auto;">
+    <img src="assets/carmackjacked.jpg" alt="THE GOAT!" style="width:140px; max-width:100%; height:auto;">
   </div>
 </div>
 <p style="text-align:center; font-size:13px; font-weight:600; margin-top:12px;">
