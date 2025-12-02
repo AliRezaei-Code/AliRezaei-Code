@@ -16,8 +16,6 @@ Other notable repos
 | --- | --- |
 | [Toyota-GR-Hack-the-Track--Ising-Decision-Maker-](https://github.com/AliRezaei-Code/Toyota-GR-Hack-the-Track--Ising-Decision-Maker-) | Motorsports telematics and decision heuristics (Ising-style) for Toyota’s Hack the Track. |
 | [Trustworthy-Credit-Risk-Scoring-with-Tractable-Probabilistic-Circuits](https://github.com/AliRezaei-Code/Trustworthy-Credit-Risk-Scoring-with-Tractable-Probabilistic-Circuits) | Structured probabilistic ML for credit risk; strong math/ML for finance signal. |
-| [VetSense-Cloud](https://github.com/AliRezaei-Code/VetSense-Cloud) | Cloud backend and data pipelines for veterinary sensor/clinic workflows (full-stack and infra). |
-| [ReactorOps-Lab](https://github.com/AliRezaei-Code/ReactorOps-Lab) | Experiments around operations and monitoring. |
 | [audio_anonymizer](https://github.com/AliRezaei-Code/audio_anonymizer) | C++ tool for pitch/tempo/noise-based anonymization; privacy + DSP + systems. |
 | [ResolveFormatTool](https://github.com/AliRezaei-Code/ResolveFormatTool) | FFmpeg-based C++ utility for producing DaVinci Resolve-friendly formats (CLI and cross-platform tooling). |
 | [llama2.c](https://github.com/AliRezaei-Code/llama2.c) | Experiments, finetuning, and evaluations around Karpathy’s llama2.c. |
