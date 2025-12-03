@@ -10,6 +10,7 @@ Full-stack & ML engineer building reliable, production-first prototypes and rese
 | [Orbital-Arm-Sensor-Console](https://github.com/AliRezaei-Code/Orbital-Arm-Sensor-Console) | C++ telemetry and visualization console for a robotic arm. Embedded-ish, real-time sensor pipelines. |
 | [OpenCV-prototypes](https://github.com/AliRezaei-Code/OpenCV-prototypes) | Computer-vision playground: tracking, filters, and small demos for practical systems and prototypes. |
 | [TAMMI 2.0](https://github.com/AliRezaei-Code/tammi-khaled) | Morphological complexity analysis toolkit with CLI, modular Python package, and docs; refactors the original TAMMI notebook for scalable batch processing. |
+| [EECS3311F25/project-runion](https://github.com/EECS3311F25/project-runion) | RUNION mobile app plus EECS3311 course deliverables and documentation. |
 
 Other notable repos
 | Repo | Description |
