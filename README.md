@@ -1,4 +1,6 @@
 Hi! I’m Ali Rezaei 👋
+
+
 Full-stack & ML engineer building reliable, production-first prototypes and research tools. I focus on practical systems: data pipelines, ML infra, real-time / embedded demos, and research code that’s easy to reproduce.
 
 🚀 Featured Projects
@@ -21,7 +23,7 @@ Other notable repos
 | [ResolveFormatTool](https://github.com/AliRezaei-Code/ResolveFormatTool) | FFmpeg-based C++ utility for producing DaVinci Resolve-friendly formats (CLI and cross-platform tooling). |
 | [llama2.c](https://github.com/AliRezaei-Code/llama2.c) | Experiments, finetuning, and evaluations around Karpathy’s llama2.c. |
 
-💼 Experience (short - full resume available on request)
+💼 Experience (full resume available on request)
 - Software & ML Engineer, Dahdaleh Institute for Global Health Research - Sep 2025 - Present  
 - Researcher (NSERC Award), Computational Neuroscience - May 2025 - Aug 2025  
 - Cybersecurity Engineer, 8 Limbs Consultancy - Feb 2025 - Present  
