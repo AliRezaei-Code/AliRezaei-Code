@@ -1,4 +1,4 @@
-Hi! I’m Ali Rezaei 👋
+Hi! I’m Ali Rezaei!
 
 
 Full-stack & ML engineer building reliable, production-first prototypes and research tools. I focus on practical systems: data pipelines, ML infra, real-time / embedded demos, and research code that’s easy to reproduce.
