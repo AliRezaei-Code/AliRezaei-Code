@@ -43,7 +43,7 @@ Other notable repos
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliRezaei-Code&theme=dark)
 
 ## Connect with Me
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32" height="32" alt="LinkedIn icon"/>](https://www.linkedin.com/in/ali-r-652a79170/)  [<img src="https://img.icons8.com/color[...]
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32" height="32" alt="LinkedIn icon"/>](https://www.linkedin.com/in/ali-r-652a79170/)  [<img src="https://img.icons8.com/color[...] 
 
 ---
 
@@ -71,6 +71,3 @@ John Carmack : id Software cofounder and 3D graphics pioneer behind Doom and Qua
 ---
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-Current Date and Time (UTC - YYYY-MM-DD HH:MM:SS formatted): 2025-12-25 12:23:32
-Current User's Login: AliRezaei-Code
