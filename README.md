@@ -22,7 +22,7 @@ Other notable repos
 | [audio_anonymizer](https://github.com/AliRezaei-Code/audio_anonymizer) | C++ tool for pitch/tempo/noise-based anonymization; privacy + DSP + systems. |
 | [ResolveFormatTool](https://github.com/AliRezaei-Code/ResolveFormatTool) | FFmpeg-based C++ utility for producing DaVinci Resolve-friendly formats (CLI and cross-platform tooling). |
 | [llama2.c](https://github.com/AliRezaei-Code/llama2.c) | Experiments, finetuning, and evaluations around Karpathy’s llama2.c. |
-| The-Ops-Kit | Lightweight templates for configuration capture, change logging, and stakeholder status updates. |
+| [The-Ops-Kit](https://github.com/AliRezaei-Code/The-Ops-Kit) | Lightweight templates for configuration capture, change logging, and stakeholder status updates. |
 
  Experience (full resume available on request)
 - Software & ML Engineer, Dahdaleh Institute for Global Health Research - Sep 2025 - Present  
