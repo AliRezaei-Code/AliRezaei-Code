@@ -1,27 +1,28 @@
 Hi! I’m Ali Rezaei!
 
 
-Full-stack & ML engineer building reliable, production-first prototypes and research tools. I focus on practical systems: data pipelines, ML infra, real-time / embedded demos, and research code that’s easy to reproduce.
+Full-stack & ML engineer building reliable, production-first prototypes and research tools. I focus on practical systems: data pipelines, ML infra, real-time / embedded demos, and research code tha[...]
 
  Featured Projects
 | Project | Description |
 | --- | --- |
 | [SWOT-LLM](https://github.com/AliRezaei-Code/SWOT-LLM) | RAG + evaluation stack for humanitarian water engineering (Safe Water Optimization). LLM infra, retrieval, and front-end in one place. |
-| [SurveilChain - Real-Time Crypto Market Surveillance](https://github.com/AliRezaei-Code/SurveilChain--Real-Time-Crypto-Market-Surveillance-Platform) | Streaming ingestion, anomaly detection, and alerting for crypto markets. Data pipelines and real-time systems. |
-| [Assurance-Insight-Copilot](https://github.com/AliRezaei-Code/Assurance-Insight-Copilot) | Domain-specific AI copilot for assurance / risk work: retrieval, tool-calling, and evaluation harnesses. |
-| [Orbital-Arm-Sensor-Console](https://github.com/AliRezaei-Code/Orbital-Arm-Sensor-Console) | C++ telemetry and visualization console for a robotic arm. Embedded-ish, real-time sensor pipelines. |
+| [SurveilChain - Real-Time Crypto Market Surveillance](https://github.com/AliRezaei-Code/SurveilChain--Real-Time-Crypto-Market-Surveillance-Platform) | Streaming ingestion, anomaly detection, and[...]
+| [Assurance-Insight-Copilot](https://github.com/AliRezaei-Code/Assurance-Insight-Copilot) | Domain-specific AI copilot for assurance / risk work: retrieval, tool-calling, and evaluation harnesses[...]
+| [Orbital-Arm-Sensor-Console](https://github.com/AliRezaei-Code/Orbital-Arm-Sensor-Console) | C++ telemetry and visualization console for a robotic arm. Embedded-ish, real-time sensor pipelines. [...]
 | [OpenCV-prototypes](https://github.com/AliRezaei-Code/OpenCV-prototypes) | Computer-vision playground: tracking, filters, and small demos for practical systems and prototypes. |
-| [TAMMI 2.0](https://github.com/AliRezaei-Code/tammi-khaled) | Morphological complexity analysis toolkit with CLI, modular Python package, and docs; refactors the original TAMMI notebook for scalable batch processing. |
+| [TAMMI 2.0](https://github.com/AliRezaei-Code/tammi-khaled) | Morphological complexity analysis toolkit with CLI, modular Python package, and docs; refactors the original TAMMI notebook for scal[...]
 | [EECS3311F25/project-runion](https://github.com/EECS3311F25/project-runion) | RUNION mobile app plus EECS3311 course deliverables and documentation. |
 
 Other notable repos
 | Repo | Description |
 | --- | --- |
-| [Toyota-GR-Hack-the-Track--Ising-Decision-Maker-](https://github.com/AliRezaei-Code/Toyota-GR-Hack-the-Track--Ising-Decision-Maker-) | Motorsports telematics and decision heuristics (Ising-style) for Toyota’s Hack the Track. |
-| [Trustworthy-Credit-Risk-Scoring-with-Tractable-Probabilistic-Circuits](https://github.com/AliRezaei-Code/Trustworthy-Credit-Risk-Scoring-with-Tractable-Probabilistic-Circuits) | Structured probabilistic ML for credit risk; strong math/ML for finance signal. |
+| [Toyota-GR-Hack-the-Track--Ising-Decision-Maker-](https://github.com/AliRezaei-Code/Toyota-GR-Hack-the-Track--Ising-Decision-Maker-) | Motorsports telematics and decision heuristics (Ising-style[...]
+| [Trustworthy-Credit-Risk-Scoring-with-Tractable-Probabilistic-Circuits](https://github.com/AliRezaei-Code/Trustworthy-Credit-Risk-Scoring-with-Tractable-Probabilistic-Circuits) | Structured prob[...]
 | [audio_anonymizer](https://github.com/AliRezaei-Code/audio_anonymizer) | C++ tool for pitch/tempo/noise-based anonymization; privacy + DSP + systems. |
 | [ResolveFormatTool](https://github.com/AliRezaei-Code/ResolveFormatTool) | FFmpeg-based C++ utility for producing DaVinci Resolve-friendly formats (CLI and cross-platform tooling). |
 | [llama2.c](https://github.com/AliRezaei-Code/llama2.c) | Experiments, finetuning, and evaluations around Karpathy’s llama2.c. |
+| [The-Ops-Kit](https://github.com/AliRezaei-Code/The-Ops-Kit) | Lightweight templates for configuration capture, change logging, and stakeholder status updates. |
 
  Experience (full resume available on request)
 - Software & ML Engineer, Dahdaleh Institute for Global Health Research - Sep 2025 - Present  
@@ -42,7 +43,7 @@ Other notable repos
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliRezaei-Code&theme=dark)
 
 ## Connect with Me
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32" height="32" alt="LinkedIn icon"/>](https://www.linkedin.com/in/ali-r-652a79170/)  [<img src="https://img.icons8.com/color/48/000000/email.png" width="32" height="32" alt="Email icon"/>](mailto:ali0rezaei0@gmail.com)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32" height="32" alt="LinkedIn icon"/>](https://www.linkedin.com/in/ali-r-652a79170/)  [<img src="https://img.icons8.com/color[...]
 
 ---
 
@@ -70,3 +71,6 @@ John Carmack : id Software cofounder and 3D graphics pioneer behind Doom and Qua
 ---
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+Current Date and Time (UTC - YYYY-MM-DD HH:MM:SS formatted): 2025-12-25 12:23:32
+Current User's Login: AliRezaei-Code
