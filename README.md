@@ -24,6 +24,8 @@ Other notable repos
 | [llama2.c](https://github.com/AliRezaei-Code/llama2.c) | Experiments, finetuning, and evaluations around Karpathy’s llama2.c. |
 | [The-Ops-Kit](https://github.com/AliRezaei-Code/The-Ops-Kit) | Lightweight templates for configuration capture, change logging, and stakeholder status updates. |
 | [javapp-accoutning-](https://github.com/AliRezaei-Code/javapp-accoutning-) | Java accounting app Languages & Tools: Java , Dockerfile ; Frameworks & libs: Spring Boot (Web, Data JPA), Hibernate, Flyway, H2, PostgreSQL (runtime), JavaFX, Jackson, AtlantisFX, Ikonli, Jakarta Persistence, JUnit 5; Build: Gradle (Kotlin DSL); Java 21 | ![Top language](https://img.shields.io/github/languages/top/AliRezaei-Code/javapp-accoutning-?color=blue) ![Languages count](https://img.shields.io/github/languages/count/AliRezaei-Code/javapp-accoutning-) |
+| [ChainOps-Lab](https://github.com/AliRezaei-Code/ChainOps-Lab) | Python — 69.2% ██████████████░░░░░ (14/20)<br>Java — 16.9% ███░░░░░░░░░░░░░ (3/20)<br>Solidity — 9.9% ██░░░░░░░░░░░░░░░ (2/20)<br>Dockerfile — 3.9% █░░░░░░░░░░░░░░░░ (1/20) |
+
 
  Experience (full resume available on request)
 - Software & ML Engineer, Dahdaleh Institute for Global Health Research - Sep 2025 - Present  
